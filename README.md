@@ -1,2 +1,2 @@
 # Chrome-Extension
-Currency converter for Google Chrome fast and easy to use.
+Currency converter Extension for Google Chrome fast and easy to use.
